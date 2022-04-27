@@ -1,0 +1,107 @@
+body{
+    margin: 15px 50px;
+}
+.logo{
+    width: 25vw;
+    height: 50px;
+    background-color: gray;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+.future{
+    width: 50vw;
+    height: 50px;
+    background-color: gray;
+    display: inline-block;
+    margin-left: 355px;
+    margin-bottom: 30px;
+
+}
+
+.navbar{
+    height: 40px;
+    background-color: gray;
+    margin-bottom: 30px;
+    width: 98.8%;
+}
+
+.dealof{
+    width: 43vw;
+    height: 22vh;
+    background-color: gray;
+    margin-bottom: 20px;
+}
+
+.partners{
+    width: 43vw;
+    height: 19vh;
+    background-color: gray;
+    margin-bottom: 20px;
+}
+
+.categorized{
+    width: 43vw;
+    height: 25vh;
+    background-color: gray;
+    margin-bottom: 20px;
+}
+
+.sign-up{
+    width: 20vw;
+    height: 27vh;
+    background-color: gray;
+    margin-bottom: 20px;
+    margin-left: 20px;
+
+}
+
+.pet{
+    width: 20vw;
+    height: 41vh;
+    background-color: gray;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.description{
+    width: 28.1vw;
+    height: 15vh;
+    background-color: gray;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.blog{
+    width: 28.1vw;
+    height: 34vh;
+    background-color: gray;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.discussion{
+    width: 28.1vw;
+    height: 17vh;
+    background-color: gray;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.footer{
+    height: 8vh;
+    width: 98.8%;
+    background-color: gray;
+}
+
+.main-left-side{
+    display: inline-block;
+}
+
+.main-middle-side{
+    display: inline-block;
+}
+
+.main-right-side{
+    display: inline-block;
+}
